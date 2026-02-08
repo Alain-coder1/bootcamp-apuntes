@@ -26,3 +26,24 @@
 ---
 
 **Siguiente paso:** Empezar SAT-01 Atlas
+
+
+## 🔍 Comandos investigados
+
+### git log --oneline
+[Historial simplificado de commits]
+
+### git remote -v
+[Las URLs de entrada y salida]
+
+### git branch
+[En la main]
+
+### git pull
+[Actualiza tu repositerio local con los cambios que hay en el remoto.]
+
+### .gitignore
+[Indica a Git que archivos o carpetas debe ignorar y no rastrear.]
+
+### git add . vs git add archivo
+[Git add es global y añade todo mientras que el segundo añade únicamente el archivo que se mencione.]
